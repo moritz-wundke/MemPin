@@ -1,6 +1,6 @@
 ## MemPin
 
-A pin tool for memory and instruction optimization for Linux. This pin tool is MPI ready and will create an .csv file for each thread.
+A pin tool for memory and instruction optimization for Linux. This pin tool is MPI ready and will create a .csv file for each thread.
 
 For more information about pin tools visit its [home page](http://software.intel.com/en-us/articles/pintool).
 
